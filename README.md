@@ -25,14 +25,22 @@ Interactive and user-friendly Streamlit UI
 Gradient background with styled buttons and animated results
 
 # 📂 Project Structure
+
 # 📦 Spam-Classifier
 ├── app1.py                # Streamlit app file
+
 ├── sms-spam-detection.ipynb # Jupyter notebook (model training & EDA)
+
 ├── spam.csv               # Dataset (SMS Spam Collection Dataset)
+
 ├── model.pkl              # Trained Machine Learning model
+
 ├── vectorizer.pkl         # TF-IDF Vectorizer
+
 ├── detect Spam.png        # Spam classification output screenshot
+
 ├── detect NOT Spam.png    # Not Spam classification output screenshot
+
 └── README.md              # Project documentation
 
 # requirements.txt
