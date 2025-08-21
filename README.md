@@ -43,24 +43,21 @@ Gradient background with styled buttons and animated results
 
 └── README.md              # Project documentation
 
-# requirements.txt
 
-streamlit
-nltk
-scikit-learn
-pandas
-numpy
 
 # Download NLTK resources
 
 import nltk
+
 nltk.download('punkt')
+
 nltk.download('stopwords')
+
 
 # Run the app
 streamlit run app1.py
 
-📊 Dataset
+# 📊 Dataset
 
 Dataset: SMS Spam Collection Dataset (spam.csv)
 
@@ -96,7 +93,7 @@ Efficiency with text classification
 
 Low computational cost
 
-✨ Future Improvements
+# ✨ Future Improvements
 
 Add support for multiple languages
 
@@ -104,9 +101,9 @@ Deploy app using Streamlit Cloud / Heroku
 
 Enhance model with deep learning (LSTMs, Transformers)
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-Moh Ahamad
+# Moh Ahamad
 
 📧 Email: work.ahamad925@gmail.com
 
